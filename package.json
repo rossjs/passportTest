@@ -1,0 +1,31 @@
+{
+  "name": "passporttest",
+  "version": "1.0.0",
+  "description": "Test implementation of Passport.js (https://scotch.io/tutorials/easy-node-authentication-setup-and-local)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossjs/passportTest.git"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authentication",
+    "js",
+    "javascript",
+    "local",
+    "facebook",
+    "twitter",
+    "google",
+    "oauth"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossjs/passportTest/issues"
+  },
+  "homepage": "https://github.com/rossjs/passportTest#readme"
+}
