@@ -17,7 +17,7 @@ const app = express();
 // connect to database
 mongoose.connect(configDB.url, { useMongoClient: true });
 
-// require('./config/passport')(passport); // pass passport for configuration
+require('./config/passport')(passport); // pass passport for configuration
 
 // set up express application
 app.use(morgan('dev')); // log every request to the console
